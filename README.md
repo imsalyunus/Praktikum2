@@ -1,7 +1,7 @@
 # Praktikum3
 # Tugas Pertemuan ke-6 Membuat Program Menghitung Luas, & Keliling Lingkaran
 
-=========Membuat Program Menghitung Luas & Keliling Lingkaran============
+=====Membuat Program Menghitung Luas & Keliling Lingkaran========
 Source Code nya:
 import math
 r = float(input("Masukan Jari-jari : "))
