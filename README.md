@@ -1,4 +1,4 @@
-# Praktikum3
+# Praktikum2
 # Tugas Pertemuan ke-6 Membuat Program Menghitung Luas, & Keliling Lingkaran
 
 =====Membuat Program Menghitung Luas & Keliling Lingkaran========
